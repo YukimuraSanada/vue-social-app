@@ -12,7 +12,6 @@ npm run serve
 
 # SOCIAL APPLICATION
 
-##### By Malbonm07
 
 A full stack, fully-featured social media application using Vue, Firebase, Vuex, Express, and Vuetify.
 
@@ -23,7 +22,6 @@ This project covers things such as integration/interactive with REST API server 
 ![alt text](https://i.imgur.com/LlXTjl1.png)
 ![alt text](https://i.imgur.com/6Qdj14t.png)
 ![alt text](https://i.imgur.com/PBAlv0I.png)
-![alt text](https://i.imgur.com/SPY99RI.png)
 
 ### Important things to highlight:
 
