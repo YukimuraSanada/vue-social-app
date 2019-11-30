@@ -58,6 +58,3 @@ This project covers things such as integration/interactive with REST API server 
 * [jwt-decode](https://www.npmjs.com/package/jwt-decode)
 * [Skeleton Screens](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a)
 
----
-made with <3 
-@malbonm07
